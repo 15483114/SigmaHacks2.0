@@ -12,5 +12,8 @@ button{
 }
 h1{
     text-align: center;
-    color: white;
+    color: rgb(175, 103, 103);
+}
+body{
+    background-color: blanchedalmond;
 }

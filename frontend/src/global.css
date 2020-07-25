@@ -20,10 +20,8 @@ button{
     float: left;
     width: 200px;
     height: 250px;
-    color: blanchedalmond;
+    color:  rgb(175, 103, 103);
     background-color: black;
     border-radius: 10px;
     border-color: blanchedalmond;
 }
-
-

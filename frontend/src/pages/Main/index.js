@@ -1,10 +1,12 @@
 import React from 'react';
 import './styles.css';
+import { Link } from 'react-router-dom';
 
 export default function Main(){
 return(
     <div className= "mainDiv">
-        <button > START NEW ORDER </button>
+        <Link className="button" to="/schedule"> start</Link>
+        <button type="button"> START NEW ORDER </button>
         <button > BECOME A LOCAL PATREON </button>
         <div > <h1>JOIN AN ORDER</h1>
         <button type="submit" className="button2" > America Bar August, 5  5pm-7pm</button>
