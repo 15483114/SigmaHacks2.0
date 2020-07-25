@@ -13,16 +13,17 @@ body{
 }
 
 button{
-
+    background-color: blanchedalmond;
     font-size: 30px;
 }
 .button2 {
-    color: darkorange;    
-    border-radius: 4px;
+    float: left;
+    width: 200px;
+    height: 250px;
+    color: blanchedalmond;
+    background-color: black;
+    border-radius: 10px;
+    border-color: blanchedalmond;
 }
 
 
-.div2 {
-    background-color: wheat;
-  }
-  
