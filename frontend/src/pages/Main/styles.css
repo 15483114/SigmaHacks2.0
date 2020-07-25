@@ -1,0 +1,15 @@
+.button2{
+
+    width: 200px;
+    height: 250px;
+    color: coral;
+    display: block;
+}
+
+button{
+    display: block;
+    size: 200px;
+}
+.mainDiv{
+    background-color: darkslategrey;
+}
